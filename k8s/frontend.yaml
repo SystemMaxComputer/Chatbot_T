@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: tu-usuario-dockerhub/chatbot-frontend:latest
+          image: systemmaxcomputer/chatbot-frontend:latest
           ports:
             - containerPort: 80
 ---
